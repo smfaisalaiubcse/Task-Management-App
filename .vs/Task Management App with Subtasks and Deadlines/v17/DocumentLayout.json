@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\task_management_app.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\task_management_app.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\controllers\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\controllers\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\portal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\portal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\portal\\mytasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\portal\\mytasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\portal\\createtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\portal\\createtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\auth\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\auth\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\dtos\\subtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\dtos\\subtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\task_management_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\task_management_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\task_management_app.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\task_management_app.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\task_management_app.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\task_management_app.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|e:\\education\\dot net\\task management app with subtasks and deadlines\\task management app with subtasks and deadlines\\ef\\task_management_app.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD02D02A-C76F-434D-90D2-F1655192C89B}|Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines.csproj|solutionrelative:task management app with subtasks and deadlines\\ef\\task_management_app.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T06:48:30.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Controllers\\RegistrationController.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:27:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Portal\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Portal\\Index.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Portal\\Index.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Portal\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:29:31.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:51:58.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxcAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:37:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortalController.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\PortalController.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Controllers\\PortalController.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\PortalController.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Controllers\\PortalController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwEwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:39:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_Management_App.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx [Diagram1]",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-15T06:41:42.766Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:42:37.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T06:55:14.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:34:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:44:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "createTask.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Portal\\createTask.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Portal\\createTask.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Portal\\createTask.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Portal\\createTask.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:16:30.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:59:06.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyTasks.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Portal\\MyTasks.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\Portal\\MyTasks.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\Portal\\MyTasks.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\Portal\\MyTasks.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:24:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Auth\\User.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Auth\\User.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Auth\\User.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Auth\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:29:20.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Auth\\Logged.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Auth\\Logged.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:54:12.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Auth\\Admin.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Auth\\Admin.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Auth\\Admin.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Auth\\Admin.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:30:49.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubTaskDTO.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\SubTaskDTO.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\DTOs\\SubTaskDTO.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\SubTaskDTO.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\DTOs\\SubTaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:44:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\SubTask.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\SubTask.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\SubTask.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\SubTask.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:44:27.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Web.config",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Web.config",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Web.config",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-15T09:24:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\Task.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\Task.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:11:11.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\DTOs\\TaskDTO.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\DTOs\\TaskDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:43:58.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:37:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Task_Management_App.tt",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.tt",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.tt",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.tt",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.tt",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-15T06:45:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Task_Management_App.edmx.diagram",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx.diagram",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx.diagram",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx.diagram",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-15T06:45:40.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:20:59.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Task_Management_App.Context.tt",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.Context.tt",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.Context.tt",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.Context.tt",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.Context.tt",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-15T06:45:27.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Task_Management_App.cs",
+              "DocumentMoniker": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.cs",
+              "RelativeDocumentMoniker": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.cs",
+              "ToolTip": "E:\\Education\\DOT NET\\Task Management App with Subtasks and Deadlines\\Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.cs",
+              "RelativeToolTip": "Task Management App with Subtasks and Deadlines\\EF\\Task_Management_App.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:45:49.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
